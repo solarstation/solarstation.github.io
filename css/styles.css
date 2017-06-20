@@ -10,10 +10,14 @@ body {
 .site-header {
 	display: flex;
 	justify-content: space-around;
-	padding-top: 2%;
+	padding-top: 40px;
 }
 
 .site-header a {
 	color: black;
 	font-size: 30px;
+}
+
+.site-header a:hover {
+	color: #6d6d6d;
 }
