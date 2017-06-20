@@ -3,3 +3,7 @@
 	margin: 0;
 	font-family: 'Bubbler One', sans-serif;
 }
+
+a {
+	text-decoration: none;
+}
