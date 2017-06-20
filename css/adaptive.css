@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+	.wrap-site { width: 750px }
+}
+
+@media (min-width: 992px) {
+	.wrap-site { width: 970px; }
+}
+
+@media (min-width: 1200px) {
+	.wrap-site { width: 1170px; }
+}
