@@ -1,0 +1,23 @@
+body {
+	background-color: #ecf0f1;
+}
+
+.wrap-site {
+  	margin-right: auto;
+  	margin-left: auto;
+}
+
+.site-header {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 2%;
+}
+
+.site-header a {
+	color: black;	
+	font-size: 30px;
+}
+
+.site-header a:hover {
+	color: #6d6d6d;
+}
