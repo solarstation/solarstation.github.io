@@ -15,6 +15,7 @@ body {
 
 .site-header a {
 	color: black;	
+	font-size: 30px;
 }
 
 .site-header a:hover {

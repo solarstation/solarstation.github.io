@@ -2,25 +2,16 @@
 	.wrap-site {
     	width: 750px;
 	}
-	.site-header a {
-		font-size: 30px;
-	}
 }
 
 @media (min-width: 992px) {
   	.wrap-site {
     	width: 970px;
   	}
- 	.site-header a {
-		font-size: 40px;
-	}
 }
 
 @media (min-width: 1200px) {
 	.wrap-site {
     	width: 1170px;
   	}
- 	.site-header a {
-		font-size: 50px;
-	}
 }
